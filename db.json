@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Peter",
+        "answers":
+    {
+        "answerA":12,
+        "answerB":24,
+        "answerC":36
+    }
+    },
+
+    {
+        "id":2,
+        "name": "Anna",
+        "answers":
+    {
+        "answerA":30,
+        "answerB":50,
+        "answerC":70
+    }
+    },
+    {
+        "id":3,
+        "name": "Jonas",
+        "answers":
+    {
+        "answerA":80,
+        "answerB":90,
+        "answerC":10
+    }
+    },
+    {
+        "id":4,
+        "name": "Tim",
+        "answers":
+    {
+        "answerA":25,
+        "answerB":50,
+        "answerC":75
+    }
+    }
+]
